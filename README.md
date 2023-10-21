@@ -33,15 +33,15 @@ Step 5: Now to connect the PC’s, we require a wire; we use cross-over wire to 
 Step 6: After selecting the wire click on the computer on the screen(here PC0) and select FastEthernet0.
 Then, drag the wire to the other pc and do the same.
 
- <img width="217" alt="afterstep6 1" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/652b5a5a-600e-46e8-b39b-006bb151f705">
+ <img width="217" alt="afterstep6 1" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/652b5a5a-600e-46e8-b39b-006bb151f705"> <br>
 
 <img width="206" alt="afterstep6 2" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/5d60b983-5980-4682-b644-03f9ae27b898">
  
 Step 7: Now, we will assign the IP address to both the PCs and Now in IPv4 Address, write 192.168.1.2 and 192.168.1.3 and We have successfully connected two computers.
 
- <img width="198" alt="afterstep7 1" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/4ec31470-819e-4d60-bdaa-ae8b110e3e47">
+ <img width="198" alt="afterstep7 1" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/4ec31470-819e-4d60-bdaa-ae8b110e3e47"> <br>
 
-<img width="241" alt="afterstep7 2" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/295ee588-6557-412b-84f8-b303704ddd23">
+<img width="241" alt="afterstep7 2" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/295ee588-6557-412b-84f8-b303704ddd23"> <br>
 
 <img width="275" alt="afterstep7 3" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/411269b3-30ee-4edb-b7de-5b68cbbd657b">
 
@@ -67,17 +67,17 @@ Part 2: Using The Established Basic Connection, Run Commands In CMD prompt
 
 Instructions
 Step 1: Use the established connections between two PC’s.
-Step 1: Click On PC0 Or PC.
-Step 1: Click On Desktop.
-Step 1: Then Go To CMD Prompt.
-Step 1: Execute Commands: - tracert <ip_address_of_other_pc>, ipconfig /all, ipconfig, ping <ip_address_of_other_pc>
+Step 2: Click On PC0 Or PC.
+Step 3: Click On Desktop.
+Step 4: Then Go To CMD Prompt.
+Step 5: Execute Commands: - tracert <ip_address_of_other_pc>, ipconfig /all, ipconfig, ping <ip_address_of_other_pc>
 
+<img width="232" alt="part2 1" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/80b56f8c-f1ae-4f8d-bd4a-ca13e75ed46f"> <br>
 
- 
+<img width="344" alt="part2 2" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/702e754f-38ec-42c3-9edb-ea08582c1866"> <br>
 
- 
+<img width="299" alt="part2 3" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/d942306c-ca9e-4d7b-8d94-3fa2cfcfa3a4">
 
- 
 
 Part 3: Establish Basic Connections Devices Using Network Wire Via Switch.
 
@@ -86,17 +86,15 @@ Step 1: Download Cisco Packet Tracer.
 Step 2: Run and install the setup (You can be requested to log in to your Cisco Networking Academy Account or you can also log in as a guest).
 Step 3: After the installation procedure has completed this display (below) will appear when you run the Cisco Packet Tracer-Start the application.
 
- 
+ <img width="371" alt="part3 3 1" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/637eb770-a53b-421e-9007-89e978d4e270">
 
 Step 4: From the bottom toolbar, click on ‘End Devices’ and select ‘PC’ and then click on the screen (for two PC’s do this step twice).
 
-
- 
+<img width="217" alt="part3 4 1" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/8cefce65-5153-4762-b674-e257ea4519fd">
 
 Step 5: Now to connect the PC’s, we require a wire; we use cross-over wire to connect similar devices. But the wires will be connecting the PC’s indirectly through a switch.
 
- 
-
+<img width="258" alt="part3 5 1" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/79ef1d05-f373-4c02-8823-95ceb6e5d4b6">
 
 Step 6: After the connection is established then we will be assigning a IP address of our choice.
 
