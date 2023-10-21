@@ -23,30 +23,29 @@ Step 3: After the installation procedure has completed this display (below) will
 
 Step 4: From the bottom toolbar, click on ‘End Devices’ and select ‘PC’ and then click on the screen (for two PC’s do this step twice).
 
-
+<img width="217" alt="afterstep4" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/de4de430-a82f-4bb1-87e3-4d89e5e3edd8">
  
 
 Step 5: Now to connect the PC’s, we require a wire; we use cross-over wire to connect similar devices.
 
- 
-
+ <img width="258" alt="afterstep5" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/ffe6f78b-0251-42f7-b1b0-4e42addf9efd">
 
 Step 6: After selecting the wire click on the computer on the screen(here PC0) and select FastEthernet0.
 Then, drag the wire to the other pc and do the same.
 
- 
+ <img width="217" alt="afterstep6 1" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/652b5a5a-600e-46e8-b39b-006bb151f705">
 
-
+<img width="206" alt="afterstep6 2" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/5d60b983-5980-4682-b644-03f9ae27b898">
  
 Step 7: Now, we will assign the IP address to both the PCs and Now in IPv4 Address, write 192.168.1.2 and 192.168.1.3 and We have successfully connected two computers.
 
- 
+ <img width="198" alt="afterstep7 1" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/4ec31470-819e-4d60-bdaa-ae8b110e3e47">
+
+<img width="241" alt="afterstep7 2" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/295ee588-6557-412b-84f8-b303704ddd23">
+
+<img width="275" alt="afterstep7 3" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/411269b3-30ee-4edb-b7de-5b68cbbd657b">
 
  
-
-
- 
-
 Now to check this, we will transfer data from one computer to another and check whether the transfer is successful or not. To do so follow the below steps:
 
 Step 1: From the Secondary Toolbar at the top, select ‘Add simple PDU’ that is the second last icon.
