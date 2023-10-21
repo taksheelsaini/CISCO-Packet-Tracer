@@ -3,10 +3,10 @@
 AIM: - Using Packet Tracer –
 
 Objectives: - 
-Part 1: Establish Basic Connections Devices Via Network Wire.
-Part 2: Using The Established Basic Connection, Run Commands In CMD prompt
-Part 3: Establish Basic Connections Devices Using Network Wire Via Switch.
-Part 4: Implement Bus, Star & Ring Topologies.
+Part 1: Establish Basic Connections Devices Via Network Wire.<br>
+Part 2: Using The Established Basic Connection, Run Commands In CMD prompt<br>
+Part 3: Establish Basic Connections Devices Using Network Wire Via Switch.<br>
+Part 4: Implement Bus, Star & Ring Topologies.<br>
 
 
 Background / Scenario
@@ -50,17 +50,15 @@ Now to check this, we will transfer data from one computer to another and check 
 
 Step 1: From the Secondary Toolbar at the top, select ‘Add simple PDU’ that is the second last icon.
 
- 
-
-
+ <img width="210" alt="step1" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/6ec31839-a183-4684-8207-bfde080fd0f2">
 
 Step 2: Now click on PC0 and then PC1. 
 
- 
+ <img width="304" alt="step2" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/f5b82bca-4a81-40d0-8745-50b75f2ec653">
 
 Now if in Realtime box- PDU list window it shows successful, that means all the connections are correct and the data transfer is successful
 
- 
+<img width="419" alt="step3" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/2c63ccbd-f35d-44f3-98c0-1a3036cc1ffa"> 
 
 You have successfully connected two computers, using the virtual program Cisco Packet Tracer.
 
