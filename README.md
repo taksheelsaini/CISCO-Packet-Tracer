@@ -108,9 +108,10 @@ Now to check this, we will transfer data from one computer to another and check 
 
 Step 1: From the Secondary Toolbar at the top, select ‘Add simple PDU’ that is the second last icon.
 
- <img width="210" alt="step1" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/0f3787bb-6b29-46a5-aabe-65afdaa92d8e">
+<img width="210" alt="step1" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/0f3787bb-6b29-46a5-aabe-65afdaa92d8e">
 
 Step 2: Now click on PC0 and then PC1. 
+
 <img width="248" alt="step2" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/1bc66ec9-f49e-46b6-98a9-55a0d1a307ab">
 
 Now if in Realtime box- PDU list window it shows successful, that means all the connections are correct and the data transfer is successful
