@@ -19,7 +19,7 @@ Step 1: Download Cisco Packet Tracer.
 Step 2: Run and install the setup (You can be requested to log in to your Cisco Networking Academy Account or you can also log in as a guest).
 Step 3: After the installation procedure has completed this display (below) will appear when you run the Cisco Packet Tracer-Start the application.
 
- 
+ <img width="299" alt="afterstep3" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/0605362a-a950-4122-986b-ed4c3732f1d3">
 
 Step 4: From the bottom toolbar, click on ‘End Devices’ and select ‘PC’ and then click on the screen (for two PC’s do this step twice).
 
