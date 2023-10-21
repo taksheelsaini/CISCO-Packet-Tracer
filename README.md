@@ -151,7 +151,7 @@ Step 3: Configure the PCs (hosts) with IPv4 address. <br>
 Step 4: If You Want To Verify, Then Use Simple PDU. <br>
 Step 5: The Ring Topology Connection Is Established. <br>
 
-<img width="341" alt="step5 2" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/5a6b3ccd-ba72-47e4-8d18-267fc143c5a7"> <br.
+<img width="341" alt="step5 2" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/5a6b3ccd-ba72-47e4-8d18-267fc143c5a7"> <br>
 
 <img width="362" alt="step5 2 1" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/c498a3a7-75d7-46f6-998c-5a2bd3e9bcce">
 
