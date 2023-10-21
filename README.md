@@ -98,13 +98,11 @@ Step 5: Now to connect the PC’s, we require a wire; we use cross-over wire to 
 
 Step 6: After the connection is established then we will be assigning a IP address of our choice.
 
+ <img width="198" alt="step6 1" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/7df1726c-64f8-4654-94ba-afaf7418f7ec"> <br>
  
- 
+<img width="241" alt="step6 2" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/c2c459ff-a0f9-4e6d-bc31-52b35916453a"> <br>
 
- 
-
-
- 
+<img width="275" alt="step6 3" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/57d6a2d2-e3a9-4f6e-9987-66fa029c4384">
 
 Now to check this, we will transfer data from one computer to another and check whether the transfer is successful or not. To do so follow the below steps:
 
