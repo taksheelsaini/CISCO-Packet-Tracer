@@ -141,19 +141,19 @@ Step 4: Transfer message from one device to another and check the Table for Vali
 
 
 Steps Implementing Bus Topology using Cisco Packet Tracer: 
-Step 1: First, open the cisco packet tracer desktop and select the devices
-Step 2: Connect the PC’s with Switches Via Automatically Choose Connection Type.
-Step 3: Configure the PCs (hosts) with IPv4 address.
-Step 4: If You Want To Verify, Then Use Simple PDU.
-Step 5: The Bus Topology Connection Is Established.
+Step 1: First, open the cisco packet tracer desktop and select the devices <br>
+Step 2: Connect the PC’s with Switches Via Automatically Choose Connection Type. <br>
+Step 3: Configure the PCs (hosts) with IPv4 address. <br>
+Step 4: If You Want To Verify, Then Use Simple PDU. <br>
+Step 5: The Bus Topology Connection Is Established. <br>
 
  
 Steps Implementing Ring Topology using Cisco Packet Tracer: 
-Step 1: First, open the cisco packet tracer desktop and select the devices
-Step 2: Connect the PC’s with Switches Via Automatically Choose Connection Type.
-Step 3: Configure the PCs (hosts) with IPv4 address.
-Step 4: If You Want To Verify, Then Use Simple PDU.
-Step 5: The Ring Topology Connection Is Established.
+Step 1: First, open the cisco packet tracer desktop and select the devices <br>
+Step 2: Connect the PC’s with Switches Via Automatically Choose Connection Type. <br>
+Step 3: Configure the PCs (hosts) with IPv4 address. <br>
+Step 4: If You Want To Verify, Then Use Simple PDU. <br>
+Step 5: The Ring Topology Connection Is Established. <br>
  
 
  
