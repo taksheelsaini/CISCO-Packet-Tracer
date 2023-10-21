@@ -108,17 +108,14 @@ Now to check this, we will transfer data from one computer to another and check 
 
 Step 1: From the Secondary Toolbar at the top, select ‘Add simple PDU’ that is the second last icon.
 
- 
-
-
+ <img width="210" alt="step1" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/0f3787bb-6b29-46a5-aabe-65afdaa92d8e">
 
 Step 2: Now click on PC0 and then PC1. 
-
- 
+<img width="248" alt="step2" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/1bc66ec9-f49e-46b6-98a9-55a0d1a307ab">
 
 Now if in Realtime box- PDU list window it shows successful, that means all the connections are correct and the data transfer is successful
 
- 
+<img width="452" alt="step3" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/3c00733c-884b-4ab3-af68-8a1f2b206453">
 
 You have successfully connected two computers via switch, using the virtual program Cisco Packet Tracer.
 
@@ -132,7 +129,10 @@ Step 3: Provide the IP address to each device.
 Step 4: Transfer message from one device to another and check the Table for Validation.
 
  
+<img width="339" alt="step4 4 1" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/e776401d-a1f3-4927-8618-8861446a8bbe"> <br>
 
+
+<img width="421" alt="step4 4 2" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/17d41d62-9a98-4f72-b930-a3f62d5bdcdf"> 
 
  
 
