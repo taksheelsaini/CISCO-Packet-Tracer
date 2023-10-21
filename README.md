@@ -133,12 +133,7 @@ Step 4: Transfer message from one device to another and check the Table for Vali
 <img width="339" alt="step4 4 1" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/e776401d-a1f3-4927-8618-8861446a8bbe"> <br>
 
 
-<img width="421" alt="step4 4 2" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/17d41d62-9a98-4f72-b930-a3f62d5bdcdf"> 
-
- 
-
-
-
+<img width="421" alt="step4 4 2" src="https://github.com/taksheelsaini/CISCO-Packet-Tracer/assets/148640778/17d41d62-9a98-4f72-b930-a3f62d5bdcdf"> <br>
 
 Steps Implementing Bus Topology using Cisco Packet Tracer: 
 Step 1: First, open the cisco packet tracer desktop and select the devices <br>
